@@ -1,6 +1,7 @@
-# summer23_aylab
+# summer23_aylab_Addiction_Study
 
-This repository contains information about the codebase utilized in the <a href="https://doi.org/10.1016/j.psychres.2024.115948" target="_blank">UK Biobank Depression Study</a>, and how to use it.
+This repository is a modified version of the [summer23_aylab](https://github.com/mminbay/summer23_aylab.git) for an addiction study on the same UK Biobank cohort. Original repo was used for a depression mood study.  
+This repo contains information about the codebase for the Addiction study on the UK Biobank cohort, and how to use it.
 ## Prerequisites
 ### Dependencies – Turing Cluster  
 
