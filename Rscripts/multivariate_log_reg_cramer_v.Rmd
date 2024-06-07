@@ -4,7 +4,7 @@ output: pdf_document
 date: "2024-01-07"
 ---
 
-This file has code to do multivariate logistic regressions with cramer's V association removal for the SNPs selected after lasso and SNP-SNP interactions found in SNPAssoc for each of the groups (male, female, overall in main and sub studies)
+This file has code to do multivariate logistic regressions with cramer's V multicollinearity removal for the SNPs selected after lasso and SNP-SNP interactions found in SNPAssoc for each of the groups (male, female, overall in main and sub studies)
  
 
 STEP 1: Install the following packages using install.packages() function and load them using library() function.
